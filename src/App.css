@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(35, 35, 35);
+  background-position: center center;
+  min-height: 300vh;
+  /* background-image: url("https://prematch.com.ar/wp-content/uploads/2022/08/Los-dias-terrestres-han-aumentado-misteriosamente-en-duracion-los-cientificos.gif"); */
+  /* backdrop-filter: blur(10px);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
